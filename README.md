@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">A passionate Junior Software Developer from Australia</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-bui1)](https://github.com/m-bui1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-bui1&theme=radical)](https://github.com/m-bui1/github-readme-stats)
 
 - 🌱 I’m currently learning **React**
 
