@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">A passionate Junior Software Developer from Australia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-bui1" alt="m-bui1" /></a> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-bui1)](https://github.com/m-bui1/github-readme-stats)
 
 - 🌱 I’m currently learning **React**
 
